@@ -60,16 +60,6 @@ Objective: To compare bike-sharing systems in Dublin and Boston, analyze trends,
 - Machine Learning: XGBoost performed better than Random Forest in predicting monthly bike trips.
 - Sentiment Analysis: Sentiment analysis revealed that BlueBikes Boston had more positive feedback compared to DublinBikes.
 
-## Installation
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/raphaelElearning/MSC_DA_Repeat.git
-Install the required Python libraries:
-bash
-Copy code
-pip install -r requirements.txt
 
 ## Usage
 
